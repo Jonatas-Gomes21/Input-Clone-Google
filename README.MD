@@ -7,6 +7,7 @@
 ## Techs
 * [ ] HTML
 * [ ] TAILWIND CSS
+* [ ] JavaScript
 
 ## Author
 
